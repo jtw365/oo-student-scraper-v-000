@@ -37,6 +37,5 @@ class Scraper
     socials[:bio] =  doc.css("div.bio-content div.description-holder").text.strip
     socials
   end
-
-
-
+end
+end
