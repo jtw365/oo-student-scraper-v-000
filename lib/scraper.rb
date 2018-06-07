@@ -38,4 +38,5 @@ class Scraper
     socials
   end
 
-end
+
+
